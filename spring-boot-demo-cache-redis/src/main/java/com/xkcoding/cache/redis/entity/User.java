@@ -7,29 +7,20 @@ import lombok.NoArgsConstructor;
 import java.io.Serializable;
 
 /**
- * <p>
- * 用户实体
- * </p>
- *
- * @package: com.xkcoding.cache.redis.entity
- * @description: 用户实体
- * @author: yangkai.shen
- * @date: Created in 2018/11/15 16:39
- * @copyright: Copyright (c) 2018
+ * @description: 用户实体类
+ * @author: juejueguai
+ * @date: 2020/7/14 10:12
+ * @copyright: Copyright (c) 2020
  * @version: V1.0
- * @modified: yangkai.shen
+ * @modified: juejueguai
  */
 @Data
 @AllArgsConstructor
 @NoArgsConstructor
 public class User implements Serializable {
-    private static final long serialVersionUID = 2892248514883451461L;
-    /**
-     * 主键id
-     */
+    private static final long serialVersionUID = 296431046986817665L;
+
     private Long id;
-    /**
-     * 姓名
-     */
+
     private String name;
 }

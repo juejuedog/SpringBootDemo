@@ -3,17 +3,12 @@ package com.xkcoding.cache.redis.service;
 import com.xkcoding.cache.redis.entity.User;
 
 /**
- * <p>
- * UserService
- * </p>
- *
- * @package: com.xkcoding.cache.redis.service
- * @description: UserService
- * @author: yangkai.shen
- * @date: Created in 2018/11/15 16:45
- * @copyright: Copyright (c) 2018
+ * @description: 用户实体类业务层
+ * @author: juejueguai
+ * @date: 2020/7/14 10:12
+ * @copyright: Copyright (c) 2020
  * @version: V1.0
- * @modified: yangkai.shen
+ * @modified: juejueguai
  */
 public interface UserService {
     /**

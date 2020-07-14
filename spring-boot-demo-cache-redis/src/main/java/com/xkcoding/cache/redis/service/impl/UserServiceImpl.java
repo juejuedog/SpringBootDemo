@@ -11,18 +11,14 @@ import org.springframework.stereotype.Service;
 
 import java.util.Map;
 
+
 /**
- * <p>
- * UserService
- * </p>
- *
- * @package: com.xkcoding.cache.redis.service.impl
- * @description: UserService
- * @author: yangkai.shen
- * @date: Created in 2018/11/15 16:45
- * @copyright: Copyright (c) 2018
+ * @description: 用户实体业务实现层
+ * @author: juejueguai
+ * @date: 2020/7/14 10:12
+ * @copyright: Copyright (c) 2020
  * @version: V1.0
- * @modified: yangkai.shen
+ * @modified: juejueguai
  */
 @Service
 @Slf4j
