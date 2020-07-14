@@ -1,4 +1,4 @@
-package com.xkcoding.cache.redis.config;
+package com.juejueguai.cache.redis.config;
 
 import org.springframework.boot.autoconfigure.AutoConfigureAfter;
 import org.springframework.boot.autoconfigure.data.redis.RedisAutoConfiguration;

@@ -1,4 +1,4 @@
-package com.xkcoding.cache.redis;
+package com.juejueguai.cache.redis;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

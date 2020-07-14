@@ -1,6 +1,6 @@
-package com.xkcoding.cache.redis.service;
+package com.juejueguai.cache.redis.service;
 
-import com.xkcoding.cache.redis.entity.User;
+import com.juejueguai.cache.redis.entity.User;
 
 /**
  * @description: 用户实体类业务层

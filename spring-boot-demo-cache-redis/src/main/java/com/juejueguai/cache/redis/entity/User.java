@@ -1,4 +1,4 @@
-package com.xkcoding.cache.redis.entity;
+package com.juejueguai.cache.redis.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
