@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBootDemo.iml" filepath="$PROJECT_DIR$/.idea/SpringBootDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/spring-boot-demo-cache-redis.iml" filepath="$PROJECT_DIR$/spring-boot-demo-cache-redis/spring-boot-demo-cache-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-task/spring-boot-demo-task.iml" filepath="$PROJECT_DIR$/spring-boot-demo-task/spring-boot-demo-task.iml" />
     </modules>
   </component>
 </project>

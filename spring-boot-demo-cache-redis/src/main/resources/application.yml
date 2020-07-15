@@ -25,4 +25,4 @@ logging:
   level:
     com.juejueguai: debug
 server:
-  port: 9002
+  port: 9001

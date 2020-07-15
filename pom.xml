@@ -8,6 +8,7 @@
   <version>1.0-SNAPSHOT</version>
   <modules>
     <module>spring-boot-demo-cache-redis</module>
+    <module>spring-boot-demo-task</module>
   </modules>
   <packaging>pom</packaging>
 
