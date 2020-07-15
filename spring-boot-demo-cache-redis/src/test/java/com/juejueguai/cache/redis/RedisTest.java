@@ -48,7 +48,7 @@ public class RedisTest extends SpringBootDemoCacheRedisApplicationTests {
         log.debug("【k1】= {}", k1);
 
         // 以下演示整合，具体Redis命令可以参考官方文档
-        String key = "xkcoding:user:1";
+        String key = "juejueguai:user:1";
         redisCacheTemplate.opsForValue().set(key, new User(1L, "user1"));
         // 对应 String（字符串）
         User user = (User) redisCacheTemplate.opsForValue().get(key);
