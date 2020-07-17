@@ -2,16 +2,21 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="spring-boot-demo-cache-redis" />
         <module name="spring-boot-demo-task" />
+        <module name="spring-boot-demo-cache-redis" />
+        <module name="spring-boot-demo-quartz" />
+        <module name="spring-boot-demo-mybatis-plus" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring-boot-demo-cache-redis" target="1.8" />
+      <module name="spring-boot-demo-mybatis-plus" target="1.8" />
+      <module name="spring-boot-demo-quartz" target="1.8" />
       <module name="spring-boot-demo-task" target="1.8" />
       <module name="SpringBootDemo" target="1.8" />
     </bytecodeTargetLevel>
@@ -19,6 +24,8 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="spring-boot-demo-cache-redis" options="-parameters" />
+      <module name="spring-boot-demo-mybatis-plus" options="-parameters" />
+      <module name="spring-boot-demo-quartz" options="-parameters" />
       <module name="spring-boot-demo-task" options="-parameters" />
     </option>
   </component>

@@ -2,28 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34015526-e745-4e20-b7fd-77ed10a748fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-task/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-task/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-task/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/SpringBootDemoTaskApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/config/TaskConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/job/TaskJob.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-task/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-task/src/test/java/com/juejueguai/task/SpringBootDemoTaskApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_3_3_1_tmp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_annotation_3_3_1_tmp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_boot_starter_3_3_1_tmp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_core_3_3_1_tmp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_baomidou_mybatis_plus_extension_3_3_1_tmp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/spring-boot-demo-mybatis-plus.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/SpringBootDemoMybatisPlusApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/config/CommonFieldHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/config/MybatisPlusConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/resources/db/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/resources/db/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/SpringBootDemoMybatisPlusApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/src/main/java/com/juejueguai/quartz/SpringBootDemoQuartzApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-quartz/src/test/java/com/juejueguai/quartz/SpringBootDemoQuartzApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SpringBootDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SpringBootDemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_0_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_0_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-task/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-task/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo-cache-redis/target/" />
     <ignored path="$PROJECT_DIR$/demo/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo-task/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-demo-quartz/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,54 +68,116 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/SpringBootDemoTaskApplication.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="158">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/RoleMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="55" selection-start-column="8" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/UserMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/SpringBootDemoMybatisPlusApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/job/TaskJob.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="49" column="46" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+            <state relative-caret-position="183">
+              <caret line="129" column="36" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#506#507#0" expanded="true" />
-                <element signature="e#575#576#0" expanded="true" />
+                <element signature="e#3066#3072#0" expanded="true" />
+                <element signature="e#4664#4665#0" expanded="true" />
+                <element signature="e#4694#4695#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/config/TaskConfig.java">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.1.tmp/mybatis-plus-core-3.3.1.tmp.jar!/com/baomidou/mybatisplus/core/conditions/interfaces/Compare.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
+            <state relative-caret-position="139">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1090#1091#0" expanded="true" />
+                <element signature="e#1139#1140#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/pom.xml">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.1.tmp/mybatis-plus-extension-3.3.1.tmp.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            <state relative-caret-position="211">
+              <caret line="105" column="28" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="28" />
+              <folding>
+                <element signature="e#1520#1521#0" expanded="true" />
+                <element signature="e#1575#1576#0" expanded="true" />
+                <element signature="e#1960#1961#0" expanded="true" />
+                <element signature="e#2037#2038#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/resources/application.yml">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.1.tmp/mybatis-plus-extension-3.3.1.tmp.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <state relative-caret-position="233">
+              <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -102,7 +196,12 @@
       <find>hutool</find>
       <find>xkcoding</find>
       <find>mybatis</find>
+      <find>spring_boot_demo</find>
+      <find>query</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -124,7 +223,6 @@
         <option value="$PROJECT_DIR$/spring-boot-demo-cache-redis/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/java/com/juejueguai/cache/redis/SpringBootDemoCacheRedisApplication.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-cache-redis/src/test/java/com/juejueguai/cache/redis/RedisTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo-task/src/test/java/com/juejueguai/demo/SpringBootDemoTaskApplicationTests.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/demo/SpringBootDemoTaskApplication.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-task/src/main/resources/application.yml" />
@@ -134,6 +232,25 @@
         <option value="$PROJECT_DIR$/spring-boot-demo-task/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/config/TaskConfig.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/job/TaskJob.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-task/README.md" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-quartz/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-quartz/src/test/java/com/juejueguai/quartz/SpringBootDemoQuartzApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-quartz/src/main/java/com/juejueguai/quartz/SpringBootDemoQuartzApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-quartz/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/config/CommonFieldHandler.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/User.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/service/UserService.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/RoleMapper.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/SpringBootDemoMybatisPlusApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java" />
       </list>
     </option>
   </component>
@@ -153,7 +270,28 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-demo-mybatis-plus" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-demo-mybatis-plus" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-demo-mybatis-plus" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="spring-boot-demo-mybatis-plus" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
@@ -168,7 +306,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,51 +316,25 @@
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-cache-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-cache-redis" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-cache-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-cache-redis" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-task" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-task" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-task" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -231,34 +342,99 @@
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-task" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemomybatisplus" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-task" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-              <item name="job" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemomybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-task" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemomybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemomybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemomybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemomybatisplus" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-mybatis-plus" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="springbootdemomybatisplus" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -270,7 +446,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/resources" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -283,7 +459,15 @@
       <recent name="com.juejueguai.demo" />
       <recent name="com.juejuedog" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.juejueguai.springbootdemomybatisplus.service.impl" />
+      <recent name="com.juejueguai.springbootdemomybatisplus.service" />
+      <recent name="com.juejueguai.springbootdemomybatisplus.config" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dev\SpringBootDemo\spring-boot-demo-mybatis-plus\src\main\resources" />
+      <recent name="D:\dev\SpringBootDemo\spring-boot-demo-mybatis-plus\src\main\java\com\juejueguai\springbootdemomybatisplus\entity" />
+      <recent name="D:\dev\SpringBootDemo\spring-boot-demo-mybatis-plus\src\main\java\com\juejueguai\springbootdemomybatisplus\mapper" />
       <recent name="D:\dev\SpringBootDemo" />
     </key>
   </component>
@@ -299,80 +483,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootDemoTaskApplication">
-    <configuration name="RedisTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-demo-cache-redis" />
+  <component name="RunManager" selected="JUnit.UserServiceTest.testQueryByCondition">
+    <configuration name="UserServiceTest.testQueryAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-demo-mybatis-plus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.juejueguai.cache.redis.*" />
+          <option name="PATTERN" value="com.juejueguai.springbootdemomybatisplus.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.juejueguai.cache.redis" />
-      <option name="MAIN_CLASS_NAME" value="com.juejueguai.cache.redis.RedisTest" />
-      <option name="METHOD_NAME" value="get" />
+      <option name="PACKAGE_NAME" value="com.juejueguai.springbootdemomybatisplus.service" />
+      <option name="MAIN_CLASS_NAME" value="com.juejueguai.springbootdemomybatisplus.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testQueryAll" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.deleteUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-demo-cache-redis" />
+    <configuration name="UserServiceTest.testQueryByCondition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-demo-mybatis-plus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.juejueguai.cache.redis.service.*" />
+          <option name="PATTERN" value="com.juejueguai.springbootdemomybatisplus.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.juejueguai.cache.redis.service" />
-      <option name="MAIN_CLASS_NAME" value="com.juejueguai.cache.redis.service.UserServiceTest" />
-      <option name="METHOD_NAME" value="deleteUser" />
+      <option name="PACKAGE_NAME" value="com.juejueguai.springbootdemomybatisplus.service" />
+      <option name="MAIN_CLASS_NAME" value="com.juejueguai.springbootdemomybatisplus.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testQueryByCondition" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.getAfterSave" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-demo-cache-redis" />
+    <configuration name="UserServiceTest.testQueryByPageAndSort" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-demo-mybatis-plus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.juejueguai.cache.redis.service.*" />
+          <option name="PATTERN" value="com.juejueguai.springbootdemomybatisplus.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.juejueguai.cache.redis.service" />
-      <option name="MAIN_CLASS_NAME" value="com.juejueguai.cache.redis.service.UserServiceTest" />
-      <option name="METHOD_NAME" value="getAfterSave" />
+      <option name="PACKAGE_NAME" value="com.juejueguai.springbootdemomybatisplus.service" />
+      <option name="MAIN_CLASS_NAME" value="com.juejueguai.springbootdemomybatisplus.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testQueryByPageAndSort" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserServiceTest.getTwice" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-demo-cache-redis" />
+    <configuration name="UserServiceTest.testQueryOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-demo-mybatis-plus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.juejueguai.cache.redis.service.*" />
+          <option name="PATTERN" value="com.juejueguai.springbootdemomybatisplus.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.juejueguai.cache.redis.service" />
-      <option name="MAIN_CLASS_NAME" value="com.juejueguai.cache.redis.service.UserServiceTest" />
-      <option name="METHOD_NAME" value="getTwice" />
+      <option name="PACKAGE_NAME" value="com.juejueguai.springbootdemomybatisplus.service" />
+      <option name="MAIN_CLASS_NAME" value="com.juejueguai.springbootdemomybatisplus.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testQueryOne" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpringBootDemoCacheRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="spring-boot-demo-cache-redis" />
+    <configuration name="UserServiceTest.testUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-demo-mybatis-plus" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.juejueguai.cache.redis.*" />
+          <option name="PATTERN" value="com.juejueguai.springbootdemomybatisplus.service.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.cache.redis.SpringBootDemoCacheRedisApplication" />
+      <option name="PACKAGE_NAME" value="com.juejueguai.springbootdemomybatisplus.service" />
+      <option name="MAIN_CLASS_NAME" value="com.juejueguai.springbootdemomybatisplus.service.UserServiceTest" />
+      <option name="METHOD_NAME" value="testUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoMybatisPlusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-mybatis-plus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.springbootdemomybatisplus.SpringBootDemoMybatisPlusApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoQuartzApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-quartz" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.quartz.SpringBootDemoQuartzApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -393,11 +594,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.RedisTest.get" />
-        <item itemvalue="JUnit.UserServiceTest.getAfterSave" />
-        <item itemvalue="JUnit.UserServiceTest.deleteUser" />
-        <item itemvalue="JUnit.UserServiceTest.getTwice" />
-        <item itemvalue="Spring Boot.SpringBootDemoCacheRedisApplication" />
+        <item itemvalue="JUnit.UserServiceTest.testQueryByCondition" />
+        <item itemvalue="JUnit.UserServiceTest.testQueryByPageAndSort" />
+        <item itemvalue="JUnit.UserServiceTest.testQueryAll" />
+        <item itemvalue="JUnit.UserServiceTest.testQueryOne" />
+        <item itemvalue="JUnit.UserServiceTest.testUpdate" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +617,9 @@
       <workItem from="1594688725447" duration="6211000" />
       <workItem from="1594735282588" duration="1371000" />
       <workItem from="1594773591050" duration="2714000" />
-      <workItem from="1594779822299" duration="3109000" />
+      <workItem from="1594779822299" duration="4959000" />
+      <workItem from="1594861765127" duration="840000" />
+      <workItem from="1594953544596" duration="8608000" />
     </task>
     <task id="LOCAL-00001" summary="创建dev分支">
       <created>1594607654850</created>
@@ -481,47 +684,57 @@
       <option name="project" value="LOCAL" />
       <updated>1594780298467</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="修改：redis cache">
+      <created>1594783187182</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594783187182</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="UserServiceTest_getTwice - 2020.07.15 at 08h 56m 28s.xml">
-      <configuration name="UserServiceTest.getTwice" configurationId="JUnit" />
+    <history-entry file="UserServiceTest_testUpdate - 2020.07.17 at 15h 05m 35s.xml">
+      <configuration name="UserServiceTest.testUpdate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest_getTwice - 2020.07.15 at 08h 57m 30s.xml">
-      <configuration name="UserServiceTest.getTwice" configurationId="JUnit" />
+    <history-entry file="UserServiceTest_testUpdate - 2020.07.17 at 15h 05m 46s.xml">
+      <configuration name="UserServiceTest.testUpdate" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest_getTwice - 2020.07.15 at 08h 58m 06s.xml">
-      <configuration name="UserServiceTest.getTwice" configurationId="JUnit" />
+    <history-entry file="UserServiceTest_testQueryOne - 2020.07.17 at 15h 11m 22s.xml">
+      <configuration name="UserServiceTest.testQueryOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest_getTwice - 2020.07.15 at 08h 58m 31s.xml">
-      <configuration name="UserServiceTest.getTwice" configurationId="JUnit" />
+    <history-entry file="UserServiceTest_testQueryOne - 2020.07.17 at 15h 12m 01s.xml">
+      <configuration name="UserServiceTest.testQueryOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest_getTwice - 2020.07.15 at 09h 02m 58s.xml">
-      <configuration name="UserServiceTest.getTwice" configurationId="JUnit" />
+    <history-entry file="UserServiceTest_testQueryOne - 2020.07.17 at 15h 13m 12s.xml">
+      <configuration name="UserServiceTest.testQueryOne" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest_getAfterSave - 2020.07.15 at 09h 03m 35s.xml">
-      <configuration name="UserServiceTest.getAfterSave" configurationId="JUnit" />
+    <history-entry file="UserServiceTest_testQueryAll - 2020.07.17 at 15h 14m 31s.xml">
+      <configuration name="UserServiceTest.testQueryAll" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest_deleteUser - 2020.07.15 at 09h 05m 10s.xml">
-      <configuration name="UserServiceTest.deleteUser" configurationId="JUnit" />
+    <history-entry file="UserServiceTest_testQueryByPageAndSort - 2020.07.17 at 15h 14m 54s.xml">
+      <configuration name="UserServiceTest.testQueryByPageAndSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="UserServiceTest_getAfterSave - 2020.07.15 at 09h 07m 49s.xml">
-      <configuration name="UserServiceTest.getAfterSave" configurationId="JUnit" />
+    <history-entry file="UserServiceTest_testQueryByPageAndSort - 2020.07.17 at 15h 16m 00s.xml">
+      <configuration name="UserServiceTest.testQueryByPageAndSort" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RedisTest_get - 2020.07.15 at 09h 09m 58s.xml">
-      <configuration name="RedisTest.get" configurationId="JUnit" />
+    <history-entry file="UserServiceTest_testQueryByCondition - 2020.07.17 at 15h 16m 47s.xml">
+      <configuration name="UserServiceTest.testQueryByCondition" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceTest_testQueryByCondition - 2020.07.17 at 15h 17m 08s.xml">
+      <configuration name="UserServiceTest.testQueryByCondition" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13622000" />
+    <option name="totallyTimeSpent" value="24920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2553305" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -532,16 +745,16 @@
       <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" />
-      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" sideWeight="0.49946696" visible="true" weight="0.5195228" />
       <window_info anchor="bottom" id="Debug" order="5" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="0.44685465" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.329718" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -557,6 +770,32 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="创建dev分支" />
@@ -597,6 +836,32 @@
           <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java</url>
+          <line>68</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java</url>
+          <line>69</line>
+          <properties />
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java</url>
+          <line>67</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java</url>
+          <line>110</line>
+          <properties class="com.juejueguai.springbootdemomybatisplus.service.UserServiceTest" method="testQueryByPageAndSort">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -605,24 +870,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="100">
-            <caret line="4" selection-start-line="4" selection-end-line="20" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/java/com/juejueguai/cache/redis/entity/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -675,14 +922,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
@@ -690,58 +929,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/java/com/juejueguai/cache/redis/SpringBootDemoCacheRedisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/test/java/com/juejueguai/cache/redis/SpringBootDemoCacheRedisApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/test/java/com/juejueguai/task/SpringBootDemoTaskApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="393">
           <caret line="27" column="12" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -752,9 +946,56 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="100">
+            <caret line="4" selection-start-line="4" selection-end-line="20" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="2" selection-start-column="2" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="12" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/job/TaskJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="925">
+          <caret line="46" column="7" selection-start-line="46" selection-start-column="7" selection-end-line="46" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/test/java/com/juejueguai/task/SpringBootDemoTaskApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/config/TaskConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="450">
           <caret line="27" column="58" selection-start-line="27" selection-start-column="58" selection-end-line="27" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -762,14 +1003,246 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/job/TaskJob.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="2675">
+            <caret line="107" selection-start-line="107" selection-end-line="107" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-quartz/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-quartz/src/test/java/com/juejueguai/quartz/SpringBootDemoQuartzApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="49" column="46" selection-start-line="49" selection-start-column="46" selection-end-line="49" selection-end-column="46" />
+        <state relative-caret-position="150">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#575#576#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/java/com/juejueguai/cache/redis/SpringBootDemoCacheRedisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/test/java/com/juejueguai/cache/redis/SpringBootDemoCacheRedisApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-quartz/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-quartz/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-quartz/src/main/java/com/juejueguai/quartz/SpringBootDemoQuartzApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="124" selection-start-line="7" selection-start-column="124" selection-end-line="7" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/spring-boot-demo-mybatis-plus.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/SpringBootDemoMybatisPlusApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#378#379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/config/CommonFieldHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-207">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="3" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.0.5.RELEASE/spring-boot-starter-web-2.0.5.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="8" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="54" column="20" selection-start-line="54" selection-start-column="20" selection-end-line="54" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/resources/db/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="44" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.1.tmp/mybatis-plus-extension-3.3.1.tmp.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="85" column="19" selection-start-line="85" selection-start-column="19" selection-end-line="85" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/SpringBootDemoMybatisPlusApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/RoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="55" selection-start-column="8" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.1.tmp/mybatis-plus-extension-3.3.1.tmp.jar!/com/baomidou/mybatisplus/extension/service/IService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="105" column="28" selection-start-line="105" selection-start-column="21" selection-end-line="105" selection-end-column="28" />
+          <folding>
+            <element signature="e#1520#1521#0" expanded="true" />
+            <element signature="e#1575#1576#0" expanded="true" />
+            <element signature="e#1960#1961#0" expanded="true" />
+            <element signature="e#2037#2038#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.1.tmp/mybatis-plus-core-3.3.1.tmp.jar!/com/baomidou/mybatisplus/core/conditions/interfaces/Compare.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="e#1090#1091#0" expanded="true" />
+            <element signature="e#1139#1140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="129" column="36" selection-start-line="129" selection-start-column="36" selection-end-line="129" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#3066#3072#0" expanded="true" />
+            <element signature="e#4664#4665#0" expanded="true" />
+            <element signature="e#4694#4695#0" expanded="true" />
           </folding>
         </state>
       </provider>

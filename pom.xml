@@ -9,6 +9,8 @@
   <modules>
     <module>spring-boot-demo-cache-redis</module>
     <module>spring-boot-demo-task</module>
+    <module>spring-boot-demo-quartz</module>
+    <module>spring-boot-demo-mybatis-plus</module>
   </modules>
   <packaging>pom</packaging>
 
@@ -50,7 +52,7 @@
     <dependency>
       <groupId>org.mybatis.spring.boot</groupId>
       <artifactId>mybatis-spring-boot-starter</artifactId>
-      <version>1.2.0</version>
+      <version>2.0.1</version>
     </dependency>
 
 
