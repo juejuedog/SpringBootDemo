@@ -1,6 +1,5 @@
 package com.juejueguai.springbootdemomybatisplus.service;
 
-import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.core.toolkit.Wrappers;
@@ -18,14 +17,6 @@ import java.util.Date;
 import java.util.List;
 import java.util.stream.Collectors;
 
-/**
- * @description: SpringBootDemo
- * @author: juejueguai
- * @date: 2020/7/17 14:37
- * @copyright: Copyright (c) 2020
- * @version: V1.0
- * @modified: juejueguai
- */
 @Slf4j
 public class UserServiceTest extends SpringBootDemoMybatisPlusApplicationTests {
     @Autowired

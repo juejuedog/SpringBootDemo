@@ -20,11 +20,10 @@ import static com.baomidou.mybatisplus.annotation.FieldFill.INSERT_UPDATE;
  *
  * @package: com.xkcoding.orm.mybatis.plus.entity
  * @description: 用户实体类
- * @author: yangkai.shen
+ * @author: juejueguai
  * @date: Created in 2018/11/8 16:49
  * @copyright: Copyright (c) 2018
  * @version: V1.0
- * @modified: yangkai.shen
  */
 @Data
 @NoArgsConstructor

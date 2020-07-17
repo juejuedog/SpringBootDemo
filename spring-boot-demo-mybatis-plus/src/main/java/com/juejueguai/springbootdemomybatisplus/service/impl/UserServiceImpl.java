@@ -11,12 +11,11 @@ import org.springframework.stereotype.Service;
  * User Service
  * </p>
  *
- * @description: User Service
- * @author: yangkai.shen
+ * @description: UserServiceImpl
+ * @author: juejueguai
  * @date: Created in 2018/11/8 18:10
  * @copyright: Copyright (c) 2018
  * @version: V1.0
- * @modified: yangkai.shen
  */
 @Service
 public class UserServiceImpl extends ServiceImpl<UserMapper, User> implements UserService {

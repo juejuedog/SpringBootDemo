@@ -8,7 +8,7 @@ import com.juejueguai.springbootdemomybatisplus.entity.Role;
  * RoleMapper
  * </p>
  *
- * @author yangkai.shen
+ * @author juejueguai
  * @date Created in 2019/9/14 14:06
  */
 public interface RoleMapper extends BaseMapper<Role> {

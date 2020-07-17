@@ -10,12 +10,11 @@ import com.juejueguai.springbootdemomybatisplus.entity.User;
  * </p>
  *
  * @package: com.xkcoding.orm.mybatis.plus.service
- * @description: User Service
- * @author: yangkai.shen
+ * @description: UserService
+ * @author: juejueguai
  * @date: Created in 2018/11/8 18:10
  * @copyright: Copyright (c) 2018
  * @version: V1.0
- * @modified: yangkai.shen
  */
 public interface UserService extends IService<User> {
 }

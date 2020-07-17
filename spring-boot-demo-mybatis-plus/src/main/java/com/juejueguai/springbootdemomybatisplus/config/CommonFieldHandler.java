@@ -13,11 +13,10 @@ import java.util.Date;
  * </p>
  *
  * @description: 通用字段填充
- * @author: yangkai.shen
+ * @author: juejueguai
  * @date: Created in 2018/11/8 17:40
  * @copyright: Copyright (c) 2018
  * @version: V1.0
- * @modified: yangkai.shen
  */
 @Slf4j
 @Component
