@@ -133,6 +133,26 @@
                 }
             }
         },
+        mounted(){
+            var ws = new WebSocket(`ws://localhost:9005/demo/notification`);
+            console.log(ws);
+            ws.onopen = () => {
+                console.log('ws连接成功')
+            };
+
+            ws.onmessage = (e) => {
+                const { type, data } = JSON.parse(e.data);
+                console.log('ws消息过来了:', JSON.parse(e.data));
+            };
+
+            ws.onerror = (e) => {
+                console.log('ws出错', e.message);
+            };
+
+            ws.onclose = (e) => {
+                console.log('ws关闭', e.code, e.reason);
+            };
+        },
         methods: {
             _getServerInfo() {
                 axios.get('/demo/server')

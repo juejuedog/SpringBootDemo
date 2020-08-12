@@ -3,6 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-cache-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-demo-docker" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-quartz" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot-demo-task" charset="UTF-8" />

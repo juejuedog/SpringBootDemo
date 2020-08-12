@@ -2,46 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34015526-e745-4e20-b7fd-77ed10a748fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_hutool_hutool_all_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_oshi_oshi_core_3_6_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_java_dev_jna_jna_platform_4_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_threeten_threetenbp_1_3_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/spring-boot-demo-websocket.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/SpringBootDemoWebsocketApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/common/WebSocketConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/config/TaskConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/config/WebSocketConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/controller/ServerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Cpu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Jvm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Mem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Sys.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/SysFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/KV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/ServerVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/CpuVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/JvmVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/MemVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/SysFileVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/SysVO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/task/ServerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/util/IpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/util/ServerUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/sockjs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/stomp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/server.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/src/test/java/com/juejueguai/springbootdemowebsocket/SpringBootDemoWebsocketApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/spring-boot-demo-docker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/SpringBootDemoDockerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/controller/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/src/test/java/com/juejueguai/springbootdemodocker/SpringBootDemoDockerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-docker/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/target/classes/static/js/sockjs.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-websocket/target/classes/static/server.html" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/target/classes/static/server.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo-cache-redis/target/" />
@@ -50,6 +27,7 @@
     <ignored path="$PROJECT_DIR$/spring-boot-demo-quartz/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo-websocket/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-demo-docker/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,101 +40,87 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/task/ServerTask.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="425">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/util/concurrent/FutureTask.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-quartz/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1376">
-              <caret line="254" column="16" selection-start-line="254" selection-start-column="16" selection-end-line="254" selection-end-column="16" />
+            <state relative-caret-position="425">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/stomp.js">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="157">
-              <caret line="471" column="11" selection-start-line="471" selection-start-column="11" selection-end-line="488" selection-end-column="14" />
+            <state relative-caret-position="1375">
+              <caret line="55" column="26" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-docker/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1250">
+              <caret line="50" column="62" selection-start-line="50" selection-start-column="62" selection-end-line="50" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1150">
+              <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/RoleMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/server.html">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/Role.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="145" column="14" lean-forward="true" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
+            <state relative-caret-position="247">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/config/WebSocketConfig.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="1025">
+              <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="3" column="23" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/sockjs.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" selection-start-line="18" selection-start-column="77" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/common/WebSocketConstant.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.9.RELEASE/spring-messaging-5.0.9.RELEASE-sources.jar!/org/springframework/messaging/core/AbstractMessageSendingTemplate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="127" column="16" selection-start-line="127" selection-start-column="16" selection-end-line="127" selection-end-column="16" />
-              <folding>
-                <element signature="e#3434#3435#0" expanded="true" />
-                <element signature="e#3469#3470#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.9.RELEASE/spring-messaging-5.0.9.RELEASE-sources.jar!/org/springframework/messaging/simp/SimpMessagingTemplate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="600">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -186,13 +150,22 @@
       <find>departNo</find>
       <find>client</find>
       <find>new w</find>
+      <find>commons-pool2</find>
+      <find>hutool-all</find>
+      <find>guava</find>
+      <find>lombok</find>
+      <find>org.projectlombok</find>
+      <find>hoo</find>
+      <find>gra</find>
+      <find>cn.hutool</find>
+      <find>&lt;version&gt;5.3.5&lt;/version&gt;</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
     <dirStrings>
-      <dir>D:\dev\SpringBootDemo</dir>
       <dir>D:\dev\SpringBootDemo\spring-boot-demo-websocket</dir>
+      <dir>D:\dev\SpringBootDemo</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -206,12 +179,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/User.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/RoleMapper.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/service/UserService.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/README.md" />
         <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/SpringBootDemoMybatisPlusApplicationTests.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/example/springbootdemowebsocket/SpringBootDemoWebsocketApplication.java" />
@@ -254,9 +221,15 @@
         <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Sys.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Mem.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Jvm.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/task/ServerTask.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/stomp.js" />
         <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/server.html" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/task/ServerTask.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-docker/src/test/java/com/juejueguai/springbootdemodocker/SpringBootDemoDockerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/SpringBootDemoDockerApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/controller/IndexController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-docker/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-task/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-docker/pom.xml" />
       </list>
     </option>
   </component>
@@ -279,204 +252,36 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo-websocket" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="spring-boot-demo-docker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo-websocket" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="spring-boot-demo-docker" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemowebsocket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemowebsocket" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemowebsocket" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemowebsocket" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemowebsocket" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemowebsocket" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemowebsocket" type="462c0819:PsiDirectoryNode" />
-              <item name="payload" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemowebsocket" type="462c0819:PsiDirectoryNode" />
-              <item name="payload" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemowebsocket" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-websocket" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -532,10 +337,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootDemoWebsocketApplication">
+  <component name="RunManager" selected="Spring Boot.SpringBootDemoDockerApplication">
     <configuration name="SpringBootDemoCacheRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-demo-cache-redis" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.cache.redis.SpringBootDemoCacheRedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootDemoDockerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-docker" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.springbootdemodocker.SpringBootDemoDockerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -579,6 +391,7 @@
       <item itemvalue="Spring Boot.SpringBootDemoQuartzApplication" />
       <item itemvalue="Spring Boot.SpringBootDemoTaskApplication" />
       <item itemvalue="Spring Boot.SpringBootDemoCacheRedisApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoDockerApplication" />
       <item itemvalue="Spring Boot.SpringBootDemoWebsocketApplication" />
     </list>
     <recent_temporary>
@@ -607,7 +420,17 @@
       <workItem from="1594953544596" duration="15335000" />
       <workItem from="1595387924049" duration="3852000" />
       <workItem from="1595397535723" duration="1635000" />
-      <workItem from="1595474775938" duration="8659000" />
+      <workItem from="1595474775938" duration="8774000" />
+      <workItem from="1595574481504" duration="2178000" />
+      <workItem from="1595832859318" duration="2310000" />
+      <workItem from="1595836044834" duration="945000" />
+      <workItem from="1595837008092" duration="395000" />
+      <workItem from="1596178304726" duration="1272000" />
+      <workItem from="1596593345326" duration="366000" />
+      <workItem from="1596618176428" duration="162000" />
+      <workItem from="1596618434554" duration="185000" />
+      <workItem from="1596678522312" duration="21000" />
+      <workItem from="1597223988035" duration="950000" />
     </task>
     <task id="LOCAL-00001" summary="创建dev分支">
       <created>1594607654850</created>
@@ -693,7 +516,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594974612698</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="新建：websocket模型">
+      <created>1595491024891</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1595491024891</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -729,14 +559,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45793000" />
+    <option name="totallyTimeSpent" value="54692000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.26332623" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20469083" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -748,7 +577,7 @@
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49946696" weight="0.5195228" />
-      <window_info anchor="bottom" id="Debug" order="5" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
@@ -756,7 +585,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Terminal" order="12" weight="0.329718" />
-      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="0.44685465" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="0.31344903" />
       <window_info anchor="bottom" id="Messages" order="14" weight="0.329718" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -769,6 +598,41 @@
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Web" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.20469083" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="0" />
+      <window_info anchor="bottom" id="Spring" order="1" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49946696" weight="0.5195228" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.31344903" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.329718" />
+      <window_info anchor="right" id="Bean Validation" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -818,292 +682,30 @@
     <MESSAGE value="新增：redis cache" />
     <MESSAGE value="修改：redis cache" />
     <MESSAGE value="新建：mybatisPlus模型" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建：mybatisPlus模型" />
+    <MESSAGE value="新建：websocket模型" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建：websocket模型" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/SpringBootDemoDockerApplication.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/java/com/juejueguai/cache/redis/SpringBootDemoCacheRedisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="124" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/example/springbootdemowebsocket/common.java" />
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/test/java/com/juejueguai/springbootdemowebsocket/SpringBootDemoWebsocketApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/spring-boot-demo-websocket.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/oshi/oshi-core/3.9.0/oshi-core-3.9.0.jar!/oshi/hardware/HardwareAbstractionLayer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/github/oshi/oshi-core/3.13.5/oshi-core-3.13.5.jar!/oshi/hardware/HardwareAbstractionLayer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar!/ch/qos/logback/core/util/SystemInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/job/TaskJob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/SpringBootDemoTaskApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/test/java/com/juejueguai/task/SpringBootDemoTaskApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/config/TaskConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="27" column="21" selection-start-line="24" selection-start-column="7" selection-end-line="27" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/common/WebSocketConsts.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/config/TaskConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/config/WebSocketConfi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="25" column="71" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/controller/ServerControlle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="671">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="35" column="26" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/task/ServerTas1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="771">
-          <caret line="49" column="5" lean-forward="true" selection-start-line="33" selection-start-column="3" selection-end-line="49" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/SpringBootDemoWebsocketApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="124" selection-start-line="7" selection-start-column="124" selection-end-line="7" selection-end-column="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/util/IpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="6" selection-start-line="6" selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/KV.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/MemVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/SysFileVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="9" selection-start-line="9" selection-end-line="16" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/SysVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/controller/ServerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="10" selection-start-line="10" selection-end-line="17" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/SysFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Sys.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Mem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-532">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Jvm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cn/hutool/hutool-all/5.3.5/hutool-all-5.3.5.jar!/cn/hutool/core/lang/Dict.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Cpu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1375">
-          <caret line="61" column="50" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/JvmVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/CpuVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/ServerVO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/util/ServerUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/com/github/oshi/oshi-core/3.6.0/oshi-core-3.6.0.jar!/oshi/PlatformEnum.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="99" column="43" selection-start-line="99" selection-start-column="43" selection-end-line="99" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1132,16 +734,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/js/sockjs.min.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="23" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/js/sockjs.min.js" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.9.RELEASE/spring-messaging-5.0.9.RELEASE-sources.jar!/org/springframework/messaging/core/AbstractMessageSendingTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
@@ -1153,27 +746,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/common/WebSocketConstant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-messaging/5.0.9.RELEASE/spring-messaging-5.0.9.RELEASE-sources.jar!/org/springframework/messaging/simp/SimpMessagingTemplate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/config/WebSocketConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1184,34 +760,340 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/task/ServerTask.java">
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="39" column="15" selection-start-line="39" selection-start-column="15" selection-end-line="39" selection-end-column="15" />
+        <state relative-caret-position="75">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/common/WebSocketConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" selection-start-line="10" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/config/TaskConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="671">
+          <caret line="37" column="66" selection-start-line="37" selection-start-column="66" selection-end-line="37" selection-end-column="66" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/sockjs.min.js">
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/config/WebSocketConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" selection-start-line="18" selection-start-column="77" selection-end-line="19" />
+        <state relative-caret-position="247">
+          <caret line="17" selection-start-line="17" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/stomp.js">
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/controller/ServerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="471" column="11" selection-start-line="471" selection-start-column="11" selection-end-line="488" selection-end-column="14" />
+        <state relative-caret-position="446">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="214" column="1" lean-forward="true" selection-start-line="28" selection-end-line="214" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/SysFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="101" column="1" lean-forward="true" selection-start-line="10" selection-end-line="101" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Sys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="75" column="1" selection-start-line="10" selection-end-line="75" selection-end-column="1" />
+          <folding>
+            <element signature="docComment;class#Sys#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Mem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="56" column="1" lean-forward="true" selection-start-line="13" selection-end-line="56" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Jvm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="127" column="1" lean-forward="true" selection-start-line="16" selection-end-line="127" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Cpu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="95" column="1" lean-forward="true" selection-start-line="12" selection-end-line="95" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/ServerVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="17" selection-start-line="17" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/KV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="14" selection-start-line="14" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/SysVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="17" selection-start-line="17" selection-end-line="30" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/SysFileVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="17" selection-start-line="17" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/MemVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="29" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/JvmVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="17" selection-start-line="17" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/payload/server/CpuVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" selection-start-line="17" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/util/IpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-100">
+          <caret line="14" selection-start-line="14" selection-end-line="165" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/util/ServerUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="14" selection-start-line="14" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/task/ServerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="25" selection-start-line="25" selection-end-line="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/server.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="145" column="14" lean-forward="true" selection-start-line="145" selection-start-column="14" selection-end-line="145" selection-end-column="14" />
+        <state relative-caret-position="529">
+          <caret line="135" column="18" lean-forward="true" selection-end-line="205" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/stomp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="491" column="34" lean-forward="true" selection-end-line="512" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/sockjs.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" selection-end-line="26" selection-end-column="29754" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#502#503#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-docker/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/SpringBootDemoDockerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/src/main/java/com/juejueguai/task/SpringBootDemoTaskApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="124" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-quartz/src/test/java/com/juejueguai/quartz/SpringBootDemoQuartzApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/SpringBootDemoMybatisPlusApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-docker/src/test/java/com/juejueguai/springbootdemodocker/SpringBootDemoDockerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-quartz/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-task/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1375">
+          <caret line="55" column="26" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-docker/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="50" column="62" selection-start-line="50" selection-start-column="62" selection-end-line="50" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="46" column="12" selection-start-line="46" selection-start-column="12" selection-end-line="46" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/RoleMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1025">
+          <caret line="41" column="49" selection-start-line="41" selection-start-column="49" selection-end-line="41" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/Role.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
