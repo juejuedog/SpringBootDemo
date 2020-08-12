@@ -1,0 +1,25 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /demo
+qiniu:
+  ## 此处填写你自己的七牛云 access key
+  accessKey:
+  ## 此处填写你自己的七牛云 secret key
+  secretKey:
+  ## 此处填写你自己的七牛云 bucket
+  bucket:
+  ## 此处填写你自己的七牛云 域名
+  prefix:
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      location: D:\QMDownload
+      file-size-threshold: 5MB
+      max-file-size: 20MB
+  mvc:
+    view:
+      prefix: classpath:/templates/
+      suffix: .html
+    static-path-pattern: /static/**
