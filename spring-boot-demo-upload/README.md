@@ -1,17 +1,49 @@
 # Getting Started
+# spring boot 实现简单上传
+1、pom.xml文件添加依赖
+  <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-thymeleaf</artifactId>
+   </dependency>
+2、yml文件添加配置参数
+server:
+  port: 8080
+  servlet:
+    context-path: /demo
+spring:
+  servlet:
+    multipart:
+      enabled: true
+      location: D:\
+      file-size-threshold: 5MB
+      max-file-size: 20MB
+  mvc:
+    view:
+      prefix: classpath:/templates/
+      suffix: .html
+    static-path-pattern: /static/**
 
-### Reference Documentation
-For further reference, please consider the following sections:
+3、在templates目录下添加index.html
+4、mvc实现页面跳转
+    方法一、
+    @Controller
+    public class IndexController {
+        @GetMapping("")
+        public String index() {
+            return "index";
+        }
+    }
+    方法二、
+   @RestController
+   public class IndexController {
+       @GetMapping("")
+       public ModelAndView index() {
+           ModelAndView modelAndView = new ModelAndView();
+           modelAndView.setViewName("index");
+           return modelAndView;
+       }
+   }
+   RestController 相当于 Controller + RequestBody，因此在使用RestController里需要配置视图解析器
+  5、代码实现文件上传
 
-* [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.3.2.RELEASE/maven-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.3.2.RELEASE/maven-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.3.2.RELEASE/reference/htmlsingle/#boot-features-developing-web-applications)
-
-### Guides
-The following guides illustrate how to use some features concretely:
-
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 
