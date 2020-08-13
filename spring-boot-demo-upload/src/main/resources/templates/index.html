@@ -47,37 +47,6 @@
 				</div>
 			</Card>
 		</i-col>
-		<i-col span="12">
-			<Card style="height: 300px;">
-				<p slot="title">
-					<Icon type="md-cloud-upload"></Icon>
-					七牛云上传
-				</p>
-				<div style="text-align: center;">
-					<Upload
-							:before-upload="handleYunUpload"
-							action="/demo/upload/yun"
-							ref="yunUploadRef"
-							:on-success="handleYunSuccess"
-							:on-error="handleYunError"
-					>
-						<i-button icon="ios-cloud-upload-outline">选择文件</i-button>
-					</Upload>
-					<i-button
-							type="primary"
-							@click="yunUpload"
-							:loading="yun.loadingStatus"
-							:disabled="!yun.file">
-						{{ yun.loadingStatus ? '七牛云文件上传中' : '七牛云上传' }}
-					</i-button>
-				</div>
-				<div>
-					<div v-if="yun.log.status != 0">状态：{{yun.log.message}}</div>
-					<div v-if="yun.log.status === 200">文件名：{{yun.log.fileName}}</div>
-					<div v-if="yun.log.status === 200">文件路径：{{yun.log.filePath}}</div>
-				</div>
-			</Card>
-		</i-col>
 	</Row>
 </div>
 <script>
