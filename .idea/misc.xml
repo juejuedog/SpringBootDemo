@@ -12,6 +12,9 @@
         <option value="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo-websocket/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo-docker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/pom.xml" />
       </list>
     </option>
   </component>
