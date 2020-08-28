@@ -9,12 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-demo-mybatis-plus" />
         <module name="spring-boot-demo-ratelimit-redis" />
-        <module name="spring-boot-demo-upload" />
+        <module name="spring-boot-demo-quartz" />
         <module name="spring-boot-demo-logback" />
         <module name="spring-boot-demo-websocket" />
-        <module name="spring-boot-demo-quartz" />
+        <module name="spring-boot-demo-upload" />
         <module name="spring-boot-demo-docker" />
         <module name="spring-boot-demo-cache-redis" />
+        <module name="spring-boot-demo-ratelimit-guava" />
         <module name="spring-boot-demo-task" />
       </profile>
     </annotationProcessing>
@@ -24,6 +25,7 @@
       <module name="spring-boot-demo-logback" target="1.8" />
       <module name="spring-boot-demo-mybatis-plus" target="1.8" />
       <module name="spring-boot-demo-quartz" target="1.8" />
+      <module name="spring-boot-demo-ratelimit-guava" target="1.8" />
       <module name="spring-boot-demo-ratelimit-redis" target="1.8" />
       <module name="spring-boot-demo-task" target="1.8" />
       <module name="spring-boot-demo-upload" target="1.8" />
@@ -38,6 +40,7 @@
       <module name="spring-boot-demo-logback" options="-parameters" />
       <module name="spring-boot-demo-mybatis-plus" options="-parameters" />
       <module name="spring-boot-demo-quartz" options="-parameters" />
+      <module name="spring-boot-demo-ratelimit-guava" options="-parameters" />
       <module name="spring-boot-demo-ratelimit-redis" options="-parameters" />
       <module name="spring-boot-demo-task" options="-parameters" />
       <module name="spring-boot-demo-upload" options="-parameters" />

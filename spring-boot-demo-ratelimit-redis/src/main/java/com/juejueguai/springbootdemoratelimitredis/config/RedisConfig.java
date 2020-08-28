@@ -18,7 +18,6 @@ import org.springframework.scripting.support.ResourceScriptSource;
 @Configuration
 public class RedisConfig {
     @Bean
-    @SuppressWarnings("unchecked")
     public RedisScript<Long> limitRedisScript() {
         DefaultRedisScript redisScript = new DefaultRedisScript<>();
         redisScript.setScriptSource(new ResourceScriptSource(new ClassPathResource("scripts/redis/limit.lua")));

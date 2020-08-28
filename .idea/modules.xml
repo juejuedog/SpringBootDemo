@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-logback/spring-boot-demo-logback.iml" filepath="$PROJECT_DIR$/spring-boot-demo-logback/spring-boot-demo-logback.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/spring-boot-demo-mybatis-plus.iml" filepath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/spring-boot-demo-mybatis-plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-quartz/spring-boot-demo-quartz.iml" filepath="$PROJECT_DIR$/spring-boot-demo-quartz/spring-boot-demo-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/spring-boot-demo-ratelimit-guava.iml" filepath="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/spring-boot-demo-ratelimit-guava.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/spring-boot-demo-ratelimit-redis.iml" filepath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/spring-boot-demo-ratelimit-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-task/spring-boot-demo-task.iml" filepath="$PROJECT_DIR$/spring-boot-demo-task/spring-boot-demo-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-upload/spring-boot-demo-upload.iml" filepath="$PROJECT_DIR$/spring-boot-demo-upload/spring-boot-demo-upload.iml" />
