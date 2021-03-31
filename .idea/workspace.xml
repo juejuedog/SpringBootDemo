@@ -2,65 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34015526-e745-4e20-b7fd-77ed10a748fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_29_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_3_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_7_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_6_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/425330ad240ed8cf19dac44457d0257217ee8786" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d74e54e759a791174a7da2bc99850b52e66607f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f435441af72076a67c6762a5dc5263e3afdbb92" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7f31555c6ed7e34717478edc333d14ca0e94229" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb9b0b2fcad6d4d096f840c005b6b03ef7e4c63f" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/BalanceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/IpServerConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/WeightRandom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/RoundContant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/RoundRobin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/Weight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundRobin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/test/java/com/juejueguai/balance/BalanceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-logback/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-logback/target/classes/logback.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/target/classes/script/redis/limit.lua" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/spring-boot-demo-redisson.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/SpringBootDemoRedissonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/controller/RedissonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/src/test/java/com/juejueguai/redisson/SpringBootDemoRedissonApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/SpringBootDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SpringBootDemo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo-docker/spring-boot-demo-docker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-docker/spring-boot-demo-docker.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/spring-boot-demo-mybatis-plus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/spring-boot-demo-mybatis-plus.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/spring-boot-demo-ratelimit-guava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/spring-boot-demo-ratelimit-guava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/spring-boot-demo-ratelimit-redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/spring-boot-demo-ratelimit-redis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo-upload/spring-boot-demo-upload.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-upload/spring-boot-demo-upload.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-boot-demo-websocket/spring-boot-demo-websocket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/spring-boot-demo-websocket.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo-cache-redis/target/" />
@@ -107,11 +51,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="172">
-              <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+            <state relative-caret-position="125">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -119,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="797">
-              <caret line="47" selection-end-line="59" />
+            <state relative-caret-position="347">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -134,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="336" column="2" lean-forward="true" selection-start-line="336" selection-start-column="2" selection-end-line="339" selection-end-column="5" />
+            <state relative-caret-position="7550">
+              <caret line="336" column="2" selection-start-line="336" selection-start-column="2" selection-end-line="339" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -143,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/lang/Object.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="99" column="27" lean-forward="true" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+            <state relative-caret-position="1900">
+              <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -179,7 +123,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/IpServerConstant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
+            <state relative-caret-position="375">
               <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -305,8 +249,8 @@
         <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/IpServerConstant.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/test/java/com/juejueguai/balance/BalanceApplicationTests.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundRobin.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java" />
       </list>
     </option>
   </component>
@@ -396,16 +340,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="balance" type="462c0819:PsiDirectoryNode" />
-              <item name="hash" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-balance" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="balance" type="462c0819:PsiDirectoryNode" />
               <item name="round" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -431,7 +365,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo-balance" />
+    <property name="last_opened_file_path" value="D:/learn" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -677,7 +611,8 @@
       <workItem from="1617065260013" duration="5395000" />
       <workItem from="1617091476334" duration="5460000" />
       <workItem from="1617151394667" duration="27000" />
-      <workItem from="1617170375069" duration="1145000" />
+      <workItem from="1617170375069" duration="3578000" />
+      <workItem from="1617181160025" duration="780000" />
     </task>
     <task id="LOCAL-00001" summary="创建dev分支">
       <created>1594607654850</created>
@@ -819,7 +754,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599116975245</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="新建：nginx 实现路由">
+      <created>1617171561851</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1617171561851</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -855,7 +797,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120918000" />
+    <option name="totallyTimeSpent" value="124131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -953,7 +895,8 @@
     <MESSAGE value="新建：实现logback日志" />
     <MESSAGE value="新建：通过redis实现限流" />
     <MESSAGE value="新建：通过guava实现限流" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建：通过guava实现限流" />
+    <MESSAGE value="新建：nginx 实现路由" />
+    <option name="LAST_COMMIT_MESSAGE" value="新建：nginx 实现路由" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1268,6 +1211,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7550">
+          <caret line="336" column="2" selection-start-line="336" selection-start-column="2" selection-end-line="339" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -1291,32 +1248,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/IpServerConstant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="375">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="99" column="27" lean-forward="true" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="336" column="2" lean-forward="true" selection-start-line="336" selection-start-column="2" selection-end-line="339" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1325,8 +1258,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="47" selection-end-line="59" />
+        <state relative-caret-position="347">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

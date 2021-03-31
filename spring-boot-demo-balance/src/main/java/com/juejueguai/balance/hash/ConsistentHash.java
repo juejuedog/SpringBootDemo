@@ -31,7 +31,7 @@ public class ConsistentHash {
 
     public static void main(String[] args) {
         for (int i = 0; i < 10; i++) {
-            System.out.println(getServer("clientInfo" + VN));
+            System.out.println(getServer("clientInfo" + VN + i));
         }
     }
 
