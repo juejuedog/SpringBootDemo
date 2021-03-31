@@ -115,8 +115,13 @@
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-starter-data-redis</artifactId>
     </dependency>
-
-    <dependency>
+      <!-- redisson -->
+      <dependency>
+          <groupId>org.redisson</groupId>
+          <artifactId>redisson</artifactId>
+          <version>3.6.5</version>
+      </dependency>
+      <dependency>
       <groupId>net.coobird</groupId>
       <artifactId>thumbnailator</artifactId>
       <version>0.4.8</version>

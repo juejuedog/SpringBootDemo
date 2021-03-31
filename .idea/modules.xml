@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/SpringBootDemo.iml" filepath="$PROJECT_DIR$/.idea/SpringBootDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-balance/balance.iml" filepath="$PROJECT_DIR$/spring-boot-demo-balance/balance.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/spring-boot-demo-cache-redis.iml" filepath="$PROJECT_DIR$/spring-boot-demo-cache-redis/spring-boot-demo-cache-redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-docker/spring-boot-demo-docker.iml" filepath="$PROJECT_DIR$/spring-boot-demo-docker/spring-boot-demo-docker.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-logback/spring-boot-demo-logback.iml" filepath="$PROJECT_DIR$/spring-boot-demo-logback/spring-boot-demo-logback.iml" />
@@ -10,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-quartz/spring-boot-demo-quartz.iml" filepath="$PROJECT_DIR$/spring-boot-demo-quartz/spring-boot-demo-quartz.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/spring-boot-demo-ratelimit-guava.iml" filepath="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/spring-boot-demo-ratelimit-guava.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/spring-boot-demo-ratelimit-redis.iml" filepath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/spring-boot-demo-ratelimit-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-redisson/spring-boot-demo-redisson.iml" filepath="$PROJECT_DIR$/spring-boot-demo-redisson/spring-boot-demo-redisson.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-task/spring-boot-demo-task.iml" filepath="$PROJECT_DIR$/spring-boot-demo-task/spring-boot-demo-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-upload/spring-boot-demo-upload.iml" filepath="$PROJECT_DIR$/spring-boot-demo-upload/spring-boot-demo-upload.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-demo-websocket/spring-boot-demo-websocket.iml" filepath="$PROJECT_DIR$/spring-boot-demo-websocket/spring-boot-demo-websocket.iml" />

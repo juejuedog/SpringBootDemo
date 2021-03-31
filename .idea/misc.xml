@@ -16,6 +16,10 @@
         <option value="$PROJECT_DIR$/spring-boot-demo-logback/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/pom.xml" />
+        <option value="$PROJECT_DIR$/redisson/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-redisson/pom.xml" />
+        <option value="$PROJECT_DIR$/balance/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/pom.xml" />
       </list>
     </option>
   </component>

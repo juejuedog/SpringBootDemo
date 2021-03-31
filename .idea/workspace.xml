@@ -2,7 +2,65 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34015526-e745-4e20-b7fd-77ed10a748fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_9_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_29_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_6_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/2/425330ad240ed8cf19dac44457d0257217ee8786" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7d74e54e759a791174a7da2bc99850b52e66607f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7f435441af72076a67c6762a5dc5263e3afdbb92" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7f31555c6ed7e34717478edc333d14ca0e94229" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/eb9b0b2fcad6d4d096f840c005b6b03ef7e4c63f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/BalanceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/IpServerConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/Random.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/WeightRandom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/RoundContant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/RoundRobin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/Weight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundRobin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-balance/src/test/java/com/juejueguai/balance/BalanceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-logback/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-logback/target/classes/logback.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/target/classes/script/redis/limit.lua" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/spring-boot-demo-redisson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/SpringBootDemoRedissonApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/controller/RedissonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/src/test/java/com/juejueguai/redisson/SpringBootDemoRedissonApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-demo-redisson/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SpringBootDemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SpringBootDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-docker/spring-boot-demo-docker.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-docker/spring-boot-demo-docker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/spring-boot-demo-mybatis-plus.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-mybatis-plus/spring-boot-demo-mybatis-plus.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/spring-boot-demo-ratelimit-guava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/spring-boot-demo-ratelimit-guava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/spring-boot-demo-ratelimit-redis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/spring-boot-demo-ratelimit-redis.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-upload/spring-boot-demo-upload.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-upload/spring-boot-demo-upload.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-demo-websocket/spring-boot-demo-websocket.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-demo-websocket/spring-boot-demo-websocket.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo-cache-redis/target/" />
@@ -16,6 +74,10 @@
     <ignored path="$PROJECT_DIR$/spring-boot-demo-logback/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/target/" />
     <ignored path="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/target/" />
+    <ignored path="$PROJECT_DIR$/redisson/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-demo-redisson/target/" />
+    <ignored path="$PROJECT_DIR$/balance/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-demo-balance/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,28 +90,97 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/src/main/java/com/example/springbootdemoupload/controller/IndexController.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundRobin.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="125">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/pom.xml">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/Weight.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
-              <caret line="45" column="21" selection-start-line="42" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+              <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="172">
+              <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/src/main/java/com/example/springbootdemoupload/controller/UploadController.java">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="33" selection-end-column="65" />
+            <state relative-caret-position="797">
+              <caret line="47" selection-end-line="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="336" column="2" lean-forward="true" selection-start-line="336" selection-start-column="2" selection-end-line="339" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/lang/Object.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="99" column="27" lean-forward="true" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="14" column="59" selection-start-line="4" selection-start-column="3" selection-end-line="14" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="875">
+              <caret line="35" column="29" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/IpServerConstant.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,9 +202,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>hutool</find>
-      <find>xkcoding</find>
-      <find>mybatis</find>
       <find>spring_boot_demo</find>
       <find>query</find>
       <find>HashMap</find>
@@ -101,6 +229,9 @@
       <find>limit.l</find>
       <find>limit</find>
       <find>Rate</find>
+      <find>appendIfMissing</find>
+      <find>lom</find>
+      <find>put</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -125,28 +256,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Cpu.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/SysFile.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Sys.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Mem.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Jvm.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/js/stomp.js" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/task/ServerTask.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-docker/src/test/java/com/juejueguai/springbootdemodocker/SpringBootDemoDockerApplicationTests.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/SpringBootDemoDockerApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/controller/IndexController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-docker/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-task/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-docker/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-upload/src/test/java/com/example/springbootdemoupload/SpringBootDemoUploadApplicationTests.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-upload/src/main/java/com/example/springbootdemoupload/SpringBootDemoUploadApplication.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-websocket/src/main/resources/static/server.html" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-upload/pom.xml" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-upload/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-upload/src/main/java/com/example/springbootdemoupload/controller/IndexController.java" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-upload/README.md" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-upload/src/main/resources/templates/index.html" />
-        <option value="$PROJECT_DIR$/spring-boot-demo-logback/src/main/java/com/example/springbootdemologback/SpringBootDemoLogbackApplication.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-logback/src/test/java/com/example/springbootdemologback/SpringBootDemoLogbackApplicationTests.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-logback/src/main/resources/logback.xml" />
         <option value="$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/java/com/example/springbootdemoratelimitredis/SpringBootDemoRatelimitRedisApplication.java" />
@@ -175,7 +284,29 @@
         <option value="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/main/java/com/example/springbootdemoratelimitguava/annotation/RateLimit.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/main/java/com/example/springbootdemoratelimitguava/controller/TestController.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/main/java/com/example/springbootdemoratelimitguava/aspect/RateLimitAspect.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-cache-redis/src/test/java/com/juejueguai/cache/redis/SpringBootDemoCacheRedisApplicationTests.java" />
         <option value="$PROJECT_DIR$/spring-boot-demo-upload/src/main/java/com/example/springbootdemoupload/controller/UploadController.java" />
+        <option value="$PROJECT_DIR$/redisson/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/demo/RedissonApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/demo/controller/RedissonController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-redisson/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/controller.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/controller/controller.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/controller/RedissonController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/Random.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/BalanceApplication.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/WeightRandom.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/RoundRobin.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/RoundContant.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/Weight.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/Weight.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/IpServerConstant.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/test/java/com/juejueguai/balance/BalanceApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundRobin.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java" />
+        <option value="$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java" />
       </list>
     </option>
   </component>
@@ -198,21 +329,16 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo-ratelimit-guava" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="spring-boot-demo-ratelimit-guava" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="spring-boot-demo-balance" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="952" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
+    <option name="width" value="976" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -230,30 +356,25 @@
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-ratelimit-guava" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-balance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-balance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-balance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-balance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -261,69 +382,43 @@
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-balance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemoupload" type="462c0819:PsiDirectoryNode" />
+              <item name="balance" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-balance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemoupload" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
+              <item name="balance" type="462c0819:PsiDirectoryNode" />
+              <item name="hash" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-balance" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="balance" type="462c0819:PsiDirectoryNode" />
+              <item name="round" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringBootDemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringBootDemo" type="462c0819:PsiDirectoryNode" />
-              <item name="spring-boot-demo-upload" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springbootdemoupload" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-boot-demo-cache-redis" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,12 +431,12 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ToproDemo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-demo-balance" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.36777776" />
     <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
@@ -376,7 +471,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootDemoUploadApplication">
+  <component name="RunManager" selected="Application.WeightRoundBalance">
+    <configuration name="WeightRoundBalance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juejueguai.balance.round.WeightRoundBalance" />
+      <module name="balance" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juejueguai.balance.round.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BalanceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-balance" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.balance.BalanceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedissonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-redisson" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.redisson.demo.RedissonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootDemoCacheRedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-demo-cache-redis" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.cache.redis.SpringBootDemoCacheRedisApplication" />
@@ -433,6 +555,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBootDemoRedissonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-demo-redisson" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.redisson.SpringBootDemoRedissonApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringBootDemoTaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="spring-boot-demo-task" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.juejueguai.task.SpringBootDemoTaskApplication" />
@@ -461,6 +590,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.WeightRoundBalance" />
       <item itemvalue="Spring Boot.SpringBootDemoMybatisPlusApplication" />
       <item itemvalue="Spring Boot.SpringBootDemoQuartzApplication" />
       <item itemvalue="Spring Boot.SpringBootDemoTaskApplication" />
@@ -471,10 +601,14 @@
       <item itemvalue="Spring Boot.SpringBootDemoRatelimitRedisApplication" />
       <item itemvalue="Spring Boot.SpringBootDemoRatelimitRedisApplication (1)" />
       <item itemvalue="Spring Boot.SpringBootDemoRatelimitGuavaApplication" />
+      <item itemvalue="Spring Boot.RedissonApplication" />
+      <item itemvalue="Spring Boot.SpringBootDemoRedissonApplication" />
+      <item itemvalue="Spring Boot.BalanceApplication" />
       <item itemvalue="Spring Boot.SpringBootDemoWebsocketApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WeightRoundBalance" />
         <item itemvalue="Spring Boot.SpringBootDemoWebsocketApplication" />
       </list>
     </recent_temporary>
@@ -526,6 +660,24 @@
       <workItem from="1599018825789" duration="36000" />
       <workItem from="1599020398481" duration="67000" />
       <workItem from="1599025165593" duration="1699000" />
+      <workItem from="1599116841908" duration="747000" />
+      <workItem from="1600260720324" duration="17000" />
+      <workItem from="1600260769678" duration="607000" />
+      <workItem from="1600688841032" duration="245000" />
+      <workItem from="1600830448875" duration="48000" />
+      <workItem from="1602468388628" duration="233000" />
+      <workItem from="1602470172091" duration="2028000" />
+      <workItem from="1602754798320" duration="2976000" />
+      <workItem from="1613699892447" duration="833000" />
+      <workItem from="1613701474172" duration="4000" />
+      <workItem from="1613701481953" duration="9000" />
+      <workItem from="1616640789278" duration="3940000" />
+      <workItem from="1616721876887" duration="3105000" />
+      <workItem from="1617000348577" duration="3628000" />
+      <workItem from="1617065260013" duration="5395000" />
+      <workItem from="1617091476334" duration="5460000" />
+      <workItem from="1617151394667" duration="27000" />
+      <workItem from="1617170375069" duration="1145000" />
     </task>
     <task id="LOCAL-00001" summary="创建dev分支">
       <created>1594607654850</created>
@@ -660,7 +812,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598606365415</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="新建：通过guava实现限流">
+      <created>1599116975245</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1599116975245</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -696,14 +855,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90471000" />
+    <option name="totallyTimeSpent" value="120918000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Web" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24786781" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.28731343" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
@@ -714,18 +873,18 @@
       <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
       <window_info anchor="bottom" id="Find" order="3" weight="0.329718" />
-      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49946696" weight="0.6127983" />
-      <window_info anchor="bottom" id="Debug" order="5" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.49946696" weight="0.54545456" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.39868566" />
       <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="12" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="12" weight="0.32936078" />
       <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="0.31344903" />
-      <window_info anchor="bottom" id="Messages" order="14" weight="0.329718" />
-      <window_info anchor="bottom" id="SonarLint" order="15" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32968238" />
+      <window_info anchor="bottom" id="SonarLint" order="15" weight="0.40197152" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="16" />
       <window_info anchor="right" id="Bean Validation" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
@@ -733,7 +892,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Maven" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="6" weight="0.32977587" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Database" order="9" />
@@ -813,362 +972,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/java/com/juejueguai/cache/redis/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/config/CommonFieldHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/config/MybatisPlusConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/test/java/com/juejueguai/springbootdemomybatisplus/service/UserServiceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="32" column="13" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-docker/src/main/java/com/juejueguai/springbootdemodocker/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/5.0.9.RELEASE/spring-core-5.0.9.RELEASE-sources.jar!/org/springframework/core/annotation/AnnotationUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="113" column="22" selection-start-line="113" selection-start-column="22" selection-end-line="113" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/resources/script/redis/limit.lua">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/java/com/juejueguai/springbootdemoratelimitredis/annotation/RateLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="822">
-          <caret line="47" selection-start-line="15" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/java/com/juejueguai/springbootdemoratelimitredis/aspect/LimiteAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2191">
-          <caret line="97" column="1" selection-start-line="31" selection-end-line="97" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/java/com/juejueguai/springbootdemoratelimitredis/config/RedisConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" selection-start-line="17" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/java/com/juejueguai/springbootdemoratelimitredis/handler/GlobalExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="13" selection-start-line="13" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/java/com/juejueguai/springbootdemoratelimitredis/Util/IpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="17" selection-start-line="17" selection-end-line="58" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/java/com/juejueguai/springbootdemoratelimitredis/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="17" selection-start-line="17" selection-end-line="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/java/com/juejueguai/springbootdemoratelimitredis/SpringBootDemoRatelimitRedisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="124" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/test/java/com/example/springbootdemoratelimitguava/SpringBootDemoRatelimitGuavaApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/spring-boot-demo-ratelimit-guava.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3221">
-          <caret line="154" column="9" selection-start-line="154" selection-start-column="9" selection-end-line="154" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="54" selection-start-line="54" selection-end-line="59" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="43" selection-start-line="43" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/google/guava/guava/11.0.2/guava-11.0.2.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2025" />
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/18.0/guava-18.0-sources.jar!/com/google/common/util/concurrent/RateLimiter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="95" column="22" selection-start-line="95" selection-start-column="22" selection-end-line="95" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/util/concurrent/ConcurrentMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="835" column="11" selection-start-line="835" selection-start-column="11" selection-end-line="835" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjrt/1.8.13/aspectjrt-1.8.13-sources.jar!/org/aspectj/lang/ProceedingJoinPoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-478">
-          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/28.1-jre/guava-28.1-jre.jar!/com/google/common/util/concurrent/RateLimiter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="113" column="30" selection-start-line="113" selection-start-column="20" selection-end-line="113" selection-end-column="30" />
-          <folding>
-            <element signature="e#4128#4129#0" expanded="true" />
-            <element signature="e#4184#4185#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/cn/hutool/hutool-all/5.3.6/hutool-all-5.3.6.jar!/cn/hutool/core/lang/Dict.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
-          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
-          <folding>
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#964#965#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/target/classes/com/example/springbootdemoratelimitguava/annotation/RateLimit.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#792#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/main/java/com/example/springbootdemoratelimitguava/annotation/RateLimit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="38" column="1" selection-start-line="15" selection-end-line="38" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/java/com/juejueguai/cache/redis/entity/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="17" selection-start-line="17" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/main/java/com/example/springbootdemoratelimitguava/aspect/RateLimitAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="950">
-          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/target/classes/com/example/springbootdemoratelimitguava/aspect/RateLimitAspect.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="39" column="52" selection-start-line="39" selection-start-column="52" selection-end-line="39" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/main/java/com/example/springbootdemoratelimitguava/controller/TestController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" selection-start-line="17" selection-end-line="40" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/main/java/com/example/springbootdemoratelimitguava/SpringBootDemoRatelimitGuavaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="7" column="124" selection-start-line="7" selection-start-column="124" selection-end-line="7" selection-end-column="124" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/src/main/java/com/example/springbootdemoratelimitguava/hanler/GlobalExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/entity/Role.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="31" column="23" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-extension/3.3.1.tmp/mybatis-plus-extension-3.3.1.tmp.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1050">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/RoleMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="13" column="27" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-mybatis-plus/src/main/java/com/juejueguai/springbootdemomybatisplus/mapper/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-guava/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="28" column="21" selection-start-line="24" selection-start-column="6" selection-end-line="28" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/src/main/java/com/example/springbootdemoupload/SpringBootDemoUploadApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/src/test/java/com/example/springbootdemoupload/SpringBootDemoUploadApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1179,17 +982,69 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/model/server/Cpu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1350">
-          <caret line="54" column="30" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="30" />
+        <state relative-caret-position="298">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/test/java/com/juejueguai/cache/redis/service/UserServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="22" column="77" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/src/main/java/com/juejueguai/springbootdemoratelimitredis/annotation/RateLimiter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/test/java/com/juejueguai/cache/redis/RedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="28" column="71" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/src/main/java/com/example/springbootdemoupload/SpringBootDemoUploadApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.9.RELEASE/spring-web-5.0.9.RELEASE-sources.jar!/org/springframework/web/multipart/MultipartFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="115" column="9" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/cn/hutool/hutool-all/5.3.6/hutool-all-5.3.6.jar!/cn/hutool/core/util/StrUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29100">
+          <caret line="1255" column="5" selection-start-line="1255" selection-start-column="5" selection-end-line="1255" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="45" column="21" selection-start-line="42" selection-start-column="8" selection-end-line="45" selection-end-column="21" />
+        <state relative-caret-position="1150">
+          <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/main/java/com/juejueguai/cache/redis/SpringBootDemoCacheRedisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" column="124" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="124" />
         </state>
       </provider>
     </entry>
@@ -1200,10 +1055,278 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/src/test/java/com/juejueguai/cache/redis/SpringBootDemoCacheRedisApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="7" selection-start-line="7" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/config/WebSocketConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/controller/ServerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-websocket/src/main/java/com/juejueguai/springbootdemowebsocket/task/ServerTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spring-boot-demo-upload/src/main/java/com/example/springbootdemoupload/controller/UploadController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="33" selection-end-column="65" />
+        <state relative-caret-position="548">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/redisson/redisson/3.6.5/redisson-3.6.5.jar!/org/redisson/Redisson.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="108" column="33" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/util/concurrent/locks/Lock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="183" column="10" lean-forward="true" selection-start-line="183" selection-start-column="10" selection-end-line="183" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/redisson/redisson/3.6.5/redisson-3.6.5-sources.jar!/org/redisson/command/CommandAsyncExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="77" column="31" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/redisson/redisson/3.6.5/redisson-3.6.5-sources.jar!/org/redisson/command/CommandAsyncService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9000">
+          <caret line="439" column="30" selection-start-line="439" selection-start-column="30" selection-end-line="439" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/redisson/redisson/3.6.5/redisson-3.6.5-sources.jar!/org/redisson/config/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="92" column="7" selection-start-line="92" selection-start-column="7" selection-end-line="92" selection-end-column="7" />
+          <folding>
+            <element signature="e#18095#18096#0" expanded="true" />
+            <element signature="e#18137#18138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/redisson/redisson/3.6.5/redisson-3.6.5.jar!/org/redisson/RedissonLock.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3900">
+          <caret line="191" column="19" selection-start-line="191" selection-start-column="19" selection-end-line="191" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/redisson/redisson/3.6.5/redisson-3.6.5-sources.jar!/org/redisson/Redisson.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1575">
+          <caret line="150" column="33" selection-start-line="150" selection-start-column="33" selection-end-line="150" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/redisson/redisson/3.6.5/redisson-3.6.5-sources.jar!/org/redisson/RedissonLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="209" column="42" selection-start-line="209" selection-start-column="42" selection-end-line="209" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/redisson/redisson/3.6.5/redisson-3.6.5-sources.jar!/org/redisson/RedissonFairLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="75" column="80" lean-forward="true" selection-start-line="75" selection-start-column="80" selection-end-line="75" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-redisson/spring-boot-demo-cache-redis (1).iml" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/demo/RedissonApplication.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/demo/controller/RedissonController.java" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/SpringBootDemoRedissonApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-ratelimit-redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="16" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-redisson/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-redisson/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-redisson/src/main/java/com/juejueguai/redisson/controller/RedissonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/BalanceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/WeightRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="33" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/RoundContant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="25" />
+          <folding>
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/test/java/com/juejueguai/balance/BalanceApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="5" selection-start-line="12" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/RoundRobin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="625">
+          <caret line="25" column="5" selection-start-line="14" selection-start-column="3" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundRobin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/Weight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="52" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-cache-redis/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="59" selection-start-line="4" selection-start-column="3" selection-end-line="14" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="29" selection-start-line="35" selection-start-column="26" selection-end-line="35" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/random/IpServerConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="99" column="27" lean-forward="true" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/soft/jdk1.8.0_211/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="336" column="2" lean-forward="true" selection-start-line="336" selection-start-column="2" selection-end-line="339" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/round/WeightRoundBalance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="31" column="51" lean-forward="true" selection-start-line="31" selection-start-column="51" selection-end-line="31" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-demo-balance/src/main/java/com/juejueguai/balance/hash/ConsistentHash.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="47" selection-end-line="59" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1260,11 +1383,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|spring-boot-demo-websocket</last-edited>
+          <last-edited>balance</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.36777776" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
